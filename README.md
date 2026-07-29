@@ -2,6 +2,13 @@
 
 > A comprehensive Excel Analytics project developed using the Sample Superstore dataset to demonstrate advanced Excel functions, data cleaning, data analysis, Pivot Tables, dashboards, lookup formulas, logical functions, report automation, and VBA Macros.
 
+# 📷 Dashboard Preview
+
+The interactive dashboard provides a comprehensive overview of sales performance, profitability, customer segmentation, regional revenue, shipping analysis, and monthly sales trends through dynamic visualizations and KPI cards.
+
+<p align="center">
+  <img src="Superstore_Dashboard.png" alt="Superstore Excel Dashboard" width="1000"/>
+</p>
 ---
 
 ## 📌 Project Overview
@@ -64,21 +71,18 @@ The dataset contains retail order-level information including:
 
 ---
 
-# 📁 Project Structure
+## 📁 Project Structure
 
 ```text
 Superstore-Excel-Analytics/
 │
-├── Superstore.xlsx
-├── README.md
-├── Dashboard.png
-├── DataCleaning/
-├── Lookups/
-├── Aggregation/
-├── Subtotal/
-├── Macros/
-├── Dashboard/
-└── Documentation/
+├── 📁 dataset/
+│   └── 📊 Superstore dataset.csv
+│
+├── 📄 Excel Module Assignment.pdf
+├── 📄 README.md
+├── 📊 Superstore.xlsx
+└── 🖼️ Superstore_Dashboard.png
 ```
 
 ---
